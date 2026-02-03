@@ -1,1 +1,1 @@
-# classwork
+## exercitii efectuate in cadrul lectiei
